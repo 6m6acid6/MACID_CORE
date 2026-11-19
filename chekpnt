@@ -1,0 +1,2 @@
+wc -c MACID_CORE_TRANSFER.txt
+git bundle verify MACID_CORE_TRANSFER.bundle
